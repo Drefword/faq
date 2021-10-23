@@ -1,17 +1,35 @@
-# Работа с gift
+# Горячие клавиши
+#### Копировать: 
+ctrl+C
+#### Вставить: 
+ctrl+V
+#### Сохранить: 
+ctrl+S
+#### Вырезать: 
+ctrl+X
+#### Отмена: 
+ctrl+Z
+
+# Работа с git
 ### Скачать проект:
 ```bash
-gift clone <URL>
+git clone <URL>
 ```
 ### Учесть все файлы:
 ```bash
-gift add .
+git add .
 ```
 ### Сохранять коммит:
 ```bash
-gift commit -m "..."
+git commit -m "..."
 ```
 ### Отправка в облако:
 ```bash
-gift push
+git push
 ```
+
+# Ссылки на сфот:
+### GIT:
+[https://git-scm.com/](https://git-scm.com/)
+### GIT:
+[https://git-scm.com/](https://code.visualstudio.com/)
